@@ -1,0 +1,4 @@
+git add ./ git add "название файла"
+git status (проверка)
+git commit -m "комментарий"
+git push origin master (отправка в репозиторий)
